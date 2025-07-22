@@ -1,0 +1,301 @@
+EmployeeID,Name,Department,Role,Location,Gender,Age,RecruitmentSource,JoiningDate,LeavingDate,PerformanceScore,SatisfactionScore,Salary,Status
+EMP0001,Employee 1,Finance,Manager,Hyderabad,Male,49,LinkedIn,2022-03-04,,2.1,1.1,49256,Active
+EMP0002,Employee 2,Sales,Executive,Hyderabad,Female,36,Campus,2015-05-03,,3.02,1.87,23478,Active
+EMP0003,Employee 3,IT,Analyst,Mumbai,Male,43,LinkedIn,2021-08-10,2022-08-23,1.64,4.04,75392,Left
+EMP0004,Employee 4,HR,Coordinator,Hyderabad,Male,46,LinkedIn,2016-01-15,2017-07-31,2.38,2.44,54671,Left
+EMP0005,Employee 5,Finance,Manager,Delhi,Other,36,Job Portal,2021-03-11,2025-09-18,4.45,3.47,95674,Left
+EMP0006,Employee 6,Operations,Analyst,Mumbai,Female,44,Referral,2015-11-23,,2.52,4.47,79429,Active
+EMP0007,Employee 7,Operations,Executive,Hyderabad,Other,37,Referral,2022-07-08,2027-06-14,3.59,4.75,99840,Left
+EMP0008,Employee 8,Finance,Analyst,Delhi,Male,24,Job Portal,2020-03-08,2022-09-11,3.56,4.96,93000,Left
+EMP0009,Employee 9,IT,Executive,Chennai,Female,51,Referral,2019-07-02,2020-11-13,4.77,1.84,114098,Left
+EMP0010,Employee 10,Operations,Intern,Chennai,Other,47,Job Portal,2017-12-20,,3.25,1.99,54438,Active
+EMP0011,Employee 11,HR,Executive,Mumbai,Other,49,Walk-in,2017-06-17,,1.36,3.04,26175,Active
+EMP0012,Employee 12,Sales,Manager,Delhi,Other,56,Job Portal,2015-09-18,2018-11-07,2.87,3.38,52953,Left
+EMP0013,Employee 13,Operations,Analyst,Hyderabad,Male,54,LinkedIn,2022-03-10,2023-10-24,1.63,2.17,20425,Left
+EMP0014,Employee 14,Finance,Intern,Hyderabad,Male,42,Campus,2022-01-05,2026-08-05,1.8,3.03,69009,Left
+EMP0015,Employee 15,Finance,Manager,Mumbai,Other,27,LinkedIn,2015-03-21,,4.51,4.72,60306,Active
+EMP0016,Employee 16,Finance,Coordinator,Hyderabad,Male,38,Walk-in,2023-03-17,2024-08-04,3.13,4.91,36483,Left
+EMP0017,Employee 17,Finance,Analyst,Chennai,Other,45,Campus,2021-10-20,2023-12-27,4.02,4.72,110422,Left
+EMP0018,Employee 18,Sales,Intern,Mumbai,Other,36,LinkedIn,2020-10-20,2022-06-24,1.26,1.99,22757,Left
+EMP0019,Employee 19,HR,Intern,Mumbai,Female,53,Referral,2015-10-18,,4.62,1.92,63309,Active
+EMP0020,Employee 20,Marketing,Executive,Chennai,Female,34,LinkedIn,2021-01-17,,4.53,3.89,95525,Active
+EMP0021,Employee 21,HR,Manager,Delhi,Female,43,LinkedIn,2016-02-02,2019-01-27,2.87,2.69,115561,Left
+EMP0022,Employee 22,Finance,Analyst,Chennai,Male,26,Campus,2017-10-15,,2.79,1.76,75296,Active
+EMP0023,Employee 23,HR,Executive,Mumbai,Female,53,Campus,2021-03-04,,5.0,1.2,21934,Active
+EMP0024,Employee 24,IT,Coordinator,Bangalore,Female,57,Campus,2017-05-25,2018-09-22,1.01,1.66,71173,Left
+EMP0025,Employee 25,Operations,Intern,Delhi,Other,42,LinkedIn,2016-09-26,,4.87,2.19,95914,Active
+EMP0026,Employee 26,Sales,Manager,Mumbai,Male,26,Referral,2015-07-25,2019-05-19,3.12,4.68,27455,Left
+EMP0027,Employee 27,Sales,Manager,Hyderabad,Male,48,Walk-in,2019-07-12,,3.28,4.77,95880,Active
+EMP0028,Employee 28,IT,Coordinator,Mumbai,Other,41,Campus,2021-05-04,2023-10-20,3.86,1.82,51285,Left
+EMP0029,Employee 29,HR,Manager,Hyderabad,Male,54,Job Portal,2018-07-19,,3.48,1.04,93792,Active
+EMP0030,Employee 30,Marketing,Intern,Bangalore,Other,55,LinkedIn,2016-06-26,2017-11-13,2.48,4.52,40676,Left
+EMP0031,Employee 31,HR,Manager,Hyderabad,Male,39,Job Portal,2022-06-28,2027-03-17,4.51,1.41,54664,Left
+EMP0032,Employee 32,IT,Intern,Chennai,Female,25,LinkedIn,2021-10-13,,1.81,3.87,103130,Active
+EMP0033,Employee 33,Operations,Analyst,Mumbai,Other,50,Walk-in,2022-02-11,2024-08-30,2.33,1.18,37146,Left
+EMP0034,Employee 34,Finance,Intern,Delhi,Female,57,Referral,2022-11-30,2027-01-21,1.3,1.04,110573,Left
+EMP0035,Employee 35,IT,Executive,Mumbai,Other,28,Job Portal,2019-10-27,,2.46,1.17,25229,Active
+EMP0036,Employee 36,Finance,Executive,Chennai,Male,33,Job Portal,2021-04-12,2025-10-04,4.7,4.0,51029,Left
+EMP0037,Employee 37,Marketing,Manager,Chennai,Male,34,Campus,2019-08-14,,4.15,2.07,34168,Active
+EMP0038,Employee 38,Finance,Coordinator,Bangalore,Female,26,Job Portal,2018-12-03,2024-05-18,1.89,4.49,106511,Left
+EMP0039,Employee 39,HR,Analyst,Mumbai,Other,38,LinkedIn,2018-12-09,2023-09-30,3.14,4.92,23617,Left
+EMP0040,Employee 40,Sales,Manager,Chennai,Other,34,Job Portal,2016-03-20,2019-02-25,2.25,3.91,99457,Left
+EMP0041,Employee 41,Operations,Executive,Bangalore,Female,26,Job Portal,2015-07-01,2016-07-03,4.23,3.08,110027,Left
+EMP0042,Employee 42,Sales,Analyst,Chennai,Female,47,Job Portal,2021-12-27,2026-09-15,3.88,4.39,59363,Left
+EMP0043,Employee 43,Operations,Executive,Hyderabad,Other,41,Campus,2021-03-20,,3.66,1.77,69695,Active
+EMP0044,Employee 44,Sales,Analyst,Chennai,Female,50,Referral,2021-02-22,,1.84,2.22,96019,Active
+EMP0045,Employee 45,Operations,Manager,Bangalore,Other,43,LinkedIn,2020-09-24,2026-03-07,4.18,4.6,42241,Left
+EMP0046,Employee 46,Finance,Coordinator,Hyderabad,Male,51,Campus,2017-08-20,2019-11-23,1.59,4.23,26057,Left
+EMP0047,Employee 47,Finance,Executive,Delhi,Male,49,Referral,2022-01-23,,2.54,3.87,72383,Active
+EMP0048,Employee 48,Marketing,Executive,Chennai,Other,55,Walk-in,2016-12-21,2018-04-02,4.67,3.23,35906,Left
+EMP0049,Employee 49,Sales,Coordinator,Hyderabad,Female,32,Campus,2021-09-04,2026-11-28,3.45,4.57,114276,Left
+EMP0050,Employee 50,Marketing,Executive,Bangalore,Female,26,Job Portal,2020-01-18,2025-04-05,3.55,1.99,88327,Left
+EMP0051,Employee 51,Finance,Executive,Chennai,Other,31,Referral,2017-08-18,2020-07-05,3.16,2.28,38136,Left
+EMP0052,Employee 52,Finance,Coordinator,Chennai,Other,23,Walk-in,2015-09-21,2019-01-02,2.86,2.32,28161,Left
+EMP0053,Employee 53,Marketing,Intern,Hyderabad,Other,36,Campus,2019-04-08,2020-04-19,2.19,4.77,71116,Left
+EMP0054,Employee 54,Operations,Coordinator,Mumbai,Female,30,Walk-in,2017-06-17,2020-11-25,2.56,2.94,107670,Left
+EMP0055,Employee 55,HR,Manager,Chennai,Male,51,Referral,2020-12-27,,3.37,4.63,106900,Active
+EMP0056,Employee 56,Marketing,Analyst,Chennai,Female,27,Campus,2015-07-25,2018-09-08,2.82,2.31,64236,Left
+EMP0057,Employee 57,HR,Manager,Delhi,Male,34,LinkedIn,2015-03-21,,2.4,5.0,105215,Active
+EMP0058,Employee 58,Sales,Executive,Chennai,Other,38,Job Portal,2021-12-19,,2.89,1.95,34993,Active
+EMP0059,Employee 59,HR,Intern,Delhi,Female,58,Campus,2016-11-18,,1.66,4.11,60768,Active
+EMP0060,Employee 60,Finance,Manager,Bangalore,Other,29,Walk-in,2019-06-13,,3.76,1.3,102213,Active
+EMP0061,Employee 61,Operations,Analyst,Delhi,Female,53,LinkedIn,2015-06-18,2019-06-13,2.48,2.71,86317,Left
+EMP0062,Employee 62,Marketing,Executive,Hyderabad,Other,39,Walk-in,2019-11-11,2024-06-03,2.84,4.57,40052,Left
+EMP0063,Employee 63,IT,Executive,Delhi,Female,50,Referral,2021-01-13,2024-08-22,3.92,2.74,55179,Left
+EMP0064,Employee 64,Marketing,Executive,Bangalore,Female,43,Job Portal,2020-03-18,2023-02-04,4.4,1.11,43834,Left
+EMP0065,Employee 65,Finance,Coordinator,Chennai,Other,37,Campus,2021-09-07,2025-10-19,4.79,1.04,31221,Left
+EMP0066,Employee 66,Marketing,Executive,Bangalore,Other,45,Campus,2022-03-30,2025-10-02,1.37,4.17,49045,Left
+EMP0067,Employee 67,Operations,Coordinator,Bangalore,Female,38,Referral,2021-03-17,2024-08-04,3.2,4.99,66112,Left
+EMP0068,Employee 68,Operations,Executive,Mumbai,Male,52,Job Portal,2016-05-09,,3.97,2.26,119901,Active
+EMP0069,Employee 69,Finance,Analyst,Delhi,Other,56,Referral,2023-02-15,2024-09-07,2.18,4.33,67301,Left
+EMP0070,Employee 70,Finance,Coordinator,Delhi,Male,58,Job Portal,2018-01-28,,3.21,4.9,111411,Active
+EMP0071,Employee 71,Marketing,Manager,Delhi,Female,53,LinkedIn,2020-04-06,2023-09-25,4.86,2.36,53092,Left
+EMP0072,Employee 72,HR,Executive,Delhi,Other,48,Walk-in,2021-06-21,,4.24,1.61,59824,Active
+EMP0073,Employee 73,IT,Intern,Chennai,Female,58,Walk-in,2021-09-07,,2.52,4.1,78028,Active
+EMP0074,Employee 74,IT,Manager,Mumbai,Male,33,Walk-in,2015-09-04,,1.83,4.79,47659,Active
+EMP0075,Employee 75,Marketing,Analyst,Delhi,Male,40,Job Portal,2015-11-04,,2.8,1.01,97832,Active
+EMP0076,Employee 76,Sales,Executive,Chennai,Male,56,Referral,2022-11-19,2024-04-12,4.7,3.75,101927,Left
+EMP0077,Employee 77,HR,Executive,Bangalore,Other,58,Job Portal,2022-04-06,,4.31,4.63,29359,Active
+EMP0078,Employee 78,IT,Intern,Hyderabad,Female,50,LinkedIn,2019-12-04,,2.22,2.87,72757,Active
+EMP0079,Employee 79,IT,Manager,Delhi,Male,58,Walk-in,2021-09-15,,3.94,4.56,99129,Active
+EMP0080,Employee 80,Sales,Coordinator,Bangalore,Male,49,Campus,2015-03-26,2019-06-18,4.03,1.16,81669,Left
+EMP0081,Employee 81,Finance,Analyst,Chennai,Other,53,Job Portal,2016-01-09,2018-12-21,2.28,2.63,33710,Left
+EMP0082,Employee 82,IT,Analyst,Delhi,Female,54,LinkedIn,2022-06-06,2027-09-10,2.82,3.2,61224,Left
+EMP0083,Employee 83,Marketing,Coordinator,Delhi,Male,39,Walk-in,2022-05-17,2025-09-09,3.07,1.22,101609,Left
+EMP0084,Employee 84,Operations,Intern,Mumbai,Other,32,Job Portal,2016-06-20,2019-12-04,2.94,4.52,23783,Left
+EMP0085,Employee 85,Marketing,Manager,Mumbai,Female,40,Walk-in,2021-03-06,,1.37,3.21,34871,Active
+EMP0086,Employee 86,Marketing,Intern,Mumbai,Female,34,Walk-in,2022-11-29,2026-03-28,4.92,4.34,51946,Left
+EMP0087,Employee 87,IT,Intern,Bangalore,Male,40,Job Portal,2020-09-12,,2.1,4.46,74387,Active
+EMP0088,Employee 88,Sales,Intern,Chennai,Female,42,Referral,2021-08-01,2023-06-01,2.94,2.79,63573,Left
+EMP0089,Employee 89,HR,Analyst,Chennai,Other,46,Campus,2022-10-27,,1.93,3.29,73841,Active
+EMP0090,Employee 90,Sales,Analyst,Delhi,Female,28,Walk-in,2022-06-11,,1.15,2.98,85836,Active
+EMP0091,Employee 91,Finance,Manager,Chennai,Female,43,Walk-in,2020-02-15,,2.64,3.89,105823,Active
+EMP0092,Employee 92,Sales,Coordinator,Bangalore,Other,53,Walk-in,2022-10-08,2027-05-30,2.31,1.32,108389,Left
+EMP0093,Employee 93,Finance,Manager,Chennai,Male,28,Campus,2015-05-28,,3.74,1.94,57667,Active
+EMP0094,Employee 94,IT,Analyst,Chennai,Male,37,Walk-in,2016-11-12,2018-01-10,4.18,1.18,58452,Left
+EMP0095,Employee 95,Sales,Executive,Chennai,Other,31,Referral,2019-08-15,,1.32,1.68,70140,Active
+EMP0096,Employee 96,IT,Intern,Mumbai,Male,50,Job Portal,2020-03-03,2023-09-30,1.04,2.02,80981,Left
+EMP0097,Employee 97,IT,Executive,Chennai,Female,28,Referral,2021-08-03,2026-03-03,3.76,4.85,79878,Left
+EMP0098,Employee 98,Operations,Coordinator,Bangalore,Male,58,LinkedIn,2019-04-12,2023-07-02,3.8,2.18,22875,Left
+EMP0099,Employee 99,Finance,Executive,Hyderabad,Female,30,LinkedIn,2021-10-19,2024-05-27,1.92,4.1,66179,Left
+EMP0100,Employee 100,IT,Executive,Delhi,Female,42,Campus,2022-01-14,,2.76,2.24,95965,Active
+EMP0101,Employee 101,Sales,Intern,Bangalore,Male,38,Campus,2016-12-20,,3.16,1.53,67953,Active
+EMP0102,Employee 102,Finance,Coordinator,Hyderabad,Female,27,Campus,2018-04-23,2019-12-14,1.3,2.87,118848,Left
+EMP0103,Employee 103,Operations,Analyst,Hyderabad,Female,45,LinkedIn,2015-02-27,2019-03-01,2.47,1.49,118174,Left
+EMP0104,Employee 104,IT,Intern,Mumbai,Other,26,Campus,2022-07-27,,3.48,2.89,93584,Active
+EMP0105,Employee 105,IT,Coordinator,Delhi,Male,37,Walk-in,2022-11-11,2027-07-02,1.56,2.63,24877,Left
+EMP0106,Employee 106,Sales,Coordinator,Hyderabad,Other,31,Campus,2016-07-09,2020-01-24,4.8,2.48,111289,Left
+EMP0107,Employee 107,HR,Analyst,Mumbai,Female,50,Referral,2022-05-06,,3.46,4.33,56666,Active
+EMP0108,Employee 108,IT,Manager,Chennai,Female,34,LinkedIn,2019-01-25,,2.47,4.92,104518,Active
+EMP0109,Employee 109,HR,Manager,Bangalore,Male,30,Walk-in,2020-02-06,,3.57,3.65,98269,Active
+EMP0110,Employee 110,Finance,Executive,Bangalore,Male,22,Job Portal,2017-04-20,,3.22,4.32,96858,Active
+EMP0111,Employee 111,Operations,Manager,Mumbai,Male,44,Referral,2016-08-15,,4.19,3.16,34408,Active
+EMP0112,Employee 112,Marketing,Intern,Delhi,Other,26,Campus,2021-08-08,2022-09-09,1.21,1.7,117218,Left
+EMP0113,Employee 113,Sales,Manager,Hyderabad,Female,51,LinkedIn,2020-01-11,2023-11-27,2.81,3.37,49038,Left
+EMP0114,Employee 114,Marketing,Manager,Delhi,Female,31,LinkedIn,2015-09-07,2018-12-07,1.43,2.71,113375,Left
+EMP0115,Employee 115,Marketing,Intern,Hyderabad,Female,51,Walk-in,2016-05-31,2020-11-29,3.19,3.53,62622,Left
+EMP0116,Employee 116,Operations,Intern,Mumbai,Female,50,Referral,2021-10-15,2023-05-06,1.46,4.17,105814,Left
+EMP0117,Employee 117,Marketing,Analyst,Bangalore,Female,31,Campus,2019-08-22,2023-03-07,3.92,2.59,60966,Left
+EMP0118,Employee 118,Operations,Analyst,Mumbai,Other,25,Walk-in,2015-10-02,,1.37,4.33,32656,Active
+EMP0119,Employee 119,Marketing,Manager,Bangalore,Other,41,Job Portal,2021-04-19,2026-01-20,2.41,1.49,107207,Left
+EMP0120,Employee 120,IT,Intern,Bangalore,Male,39,Walk-in,2016-02-29,,2.93,1.62,34184,Active
+EMP0121,Employee 121,Operations,Intern,Delhi,Other,39,LinkedIn,2017-07-15,2021-09-05,4.27,4.9,100422,Left
+EMP0122,Employee 122,HR,Executive,Mumbai,Other,47,LinkedIn,2017-01-08,2021-12-17,4.69,4.05,66009,Left
+EMP0123,Employee 123,Marketing,Coordinator,Bangalore,Male,45,Job Portal,2016-08-04,,3.12,1.37,69308,Active
+EMP0124,Employee 124,Finance,Executive,Hyderabad,Male,27,Job Portal,2023-02-03,2028-06-11,3.38,4.77,26895,Left
+EMP0125,Employee 125,Sales,Manager,Bangalore,Female,29,Job Portal,2019-12-20,2023-09-09,2.66,3.43,48255,Left
+EMP0126,Employee 126,Sales,Manager,Delhi,Male,41,Referral,2022-08-09,2026-07-23,1.18,3.67,71807,Left
+EMP0127,Employee 127,Marketing,Executive,Mumbai,Female,56,Referral,2016-07-16,2019-02-28,1.03,2.31,117912,Left
+EMP0128,Employee 128,HR,Coordinator,Delhi,Female,58,Campus,2020-08-11,2022-01-05,3.97,2.59,77176,Left
+EMP0129,Employee 129,HR,Analyst,Mumbai,Other,51,Job Portal,2021-06-06,2026-05-29,2.16,3.56,73088,Left
+EMP0130,Employee 130,HR,Coordinator,Bangalore,Other,43,Referral,2015-12-27,2017-07-30,3.36,1.97,88676,Left
+EMP0131,Employee 131,Sales,Executive,Bangalore,Female,31,Referral,2018-09-26,,3.53,1.31,89547,Active
+EMP0132,Employee 132,Operations,Manager,Mumbai,Other,53,Campus,2016-02-26,,1.69,2.02,40036,Active
+EMP0133,Employee 133,Sales,Analyst,Bangalore,Male,50,LinkedIn,2021-04-28,2026-02-20,3.26,4.7,103269,Left
+EMP0134,Employee 134,IT,Intern,Delhi,Female,51,Campus,2020-04-04,2024-10-18,2.1,2.21,27362,Left
+EMP0135,Employee 135,HR,Intern,Hyderabad,Other,46,Campus,2015-06-04,,2.15,2.47,104497,Active
+EMP0136,Employee 136,Finance,Analyst,Hyderabad,Female,54,Referral,2021-07-05,,4.24,2.8,105437,Active
+EMP0137,Employee 137,HR,Intern,Mumbai,Male,37,Campus,2015-09-11,2017-04-09,4.35,4.24,113626,Left
+EMP0138,Employee 138,Marketing,Analyst,Hyderabad,Male,43,LinkedIn,2019-12-05,,4.67,2.46,70779,Active
+EMP0139,Employee 139,Operations,Intern,Mumbai,Female,27,Walk-in,2018-09-12,,2.55,3.23,53029,Active
+EMP0140,Employee 140,Operations,Coordinator,Mumbai,Other,27,Job Portal,2022-06-11,,2.24,4.67,105990,Active
+EMP0141,Employee 141,Operations,Intern,Delhi,Other,49,Walk-in,2021-04-08,2025-11-15,4.25,4.17,107833,Left
+EMP0142,Employee 142,IT,Coordinator,Mumbai,Male,30,Referral,2019-01-22,,1.72,2.45,48074,Active
+EMP0143,Employee 143,Sales,Manager,Bangalore,Other,30,Walk-in,2015-11-13,2021-04-14,4.08,1.4,116815,Left
+EMP0144,Employee 144,Finance,Coordinator,Delhi,Female,45,Referral,2019-03-24,,4.33,1.65,101885,Active
+EMP0145,Employee 145,Finance,Analyst,Chennai,Male,45,Walk-in,2019-12-25,2025-03-13,2.8,3.99,89993,Left
+EMP0146,Employee 146,Marketing,Executive,Mumbai,Other,30,Job Portal,2019-12-10,2025-04-02,2.53,2.13,89135,Left
+EMP0147,Employee 147,HR,Analyst,Delhi,Male,39,Campus,2015-08-02,2018-08-31,1.41,3.22,87621,Left
+EMP0148,Employee 148,Marketing,Analyst,Delhi,Female,25,Campus,2020-10-03,,1.37,4.32,49102,Active
+EMP0149,Employee 149,HR,Analyst,Delhi,Other,43,Referral,2020-08-18,2022-12-13,1.33,2.54,49430,Left
+EMP0150,Employee 150,Finance,Coordinator,Chennai,Other,22,LinkedIn,2016-07-17,,4.32,2.15,111235,Active
+EMP0151,Employee 151,Sales,Intern,Chennai,Male,40,Referral,2015-03-19,2017-06-02,3.2,4.34,115320,Left
+EMP0152,Employee 152,Marketing,Manager,Delhi,Female,56,LinkedIn,2018-05-18,,2.68,1.19,101633,Active
+EMP0153,Employee 153,Sales,Analyst,Mumbai,Other,48,Referral,2022-02-01,,2.17,3.87,20205,Active
+EMP0154,Employee 154,Sales,Intern,Hyderabad,Other,23,Campus,2022-06-14,,2.44,3.09,88951,Active
+EMP0155,Employee 155,Operations,Manager,Bangalore,Male,44,Referral,2020-04-09,,4.92,3.54,53246,Active
+EMP0156,Employee 156,Finance,Manager,Bangalore,Other,43,Referral,2022-05-15,,3.94,4.09,63583,Active
+EMP0157,Employee 157,HR,Coordinator,Delhi,Female,34,LinkedIn,2022-09-05,2027-07-30,1.73,2.91,37675,Left
+EMP0158,Employee 158,Sales,Coordinator,Bangalore,Male,34,Job Portal,2017-03-28,,2.24,2.26,72196,Active
+EMP0159,Employee 159,IT,Coordinator,Chennai,Other,50,Campus,2019-01-02,,2.33,4.46,36315,Active
+EMP0160,Employee 160,IT,Manager,Chennai,Male,49,Walk-in,2018-10-20,,2.99,2.98,88062,Active
+EMP0161,Employee 161,IT,Coordinator,Hyderabad,Other,49,Referral,2017-01-09,2019-10-28,2.31,1.41,58750,Left
+EMP0162,Employee 162,Sales,Coordinator,Bangalore,Other,25,LinkedIn,2022-09-26,2025-09-14,3.91,2.79,66210,Left
+EMP0163,Employee 163,HR,Executive,Hyderabad,Other,50,LinkedIn,2022-07-12,2025-07-25,4.0,3.05,40969,Left
+EMP0164,Employee 164,Marketing,Intern,Delhi,Other,31,Campus,2016-06-01,,3.58,1.94,67467,Active
+EMP0165,Employee 165,IT,Coordinator,Bangalore,Other,39,Referral,2019-02-28,2022-08-25,3.3,4.05,89397,Left
+EMP0166,Employee 166,Sales,Manager,Bangalore,Female,50,Referral,2016-04-09,,3.0,3.94,70723,Active
+EMP0167,Employee 167,Finance,Manager,Chennai,Male,50,LinkedIn,2021-11-11,2026-10-02,2.96,4.67,36074,Left
+EMP0168,Employee 168,IT,Analyst,Mumbai,Other,33,Job Portal,2022-08-25,2027-05-23,1.26,2.39,91063,Left
+EMP0169,Employee 169,Finance,Coordinator,Delhi,Female,57,Walk-in,2020-09-14,,1.8,1.49,38202,Active
+EMP0170,Employee 170,IT,Coordinator,Chennai,Other,48,Campus,2019-02-20,2023-03-25,4.54,1.52,28617,Left
+EMP0171,Employee 171,Marketing,Coordinator,Hyderabad,Female,30,Walk-in,2021-06-12,,2.27,1.5,29720,Active
+EMP0172,Employee 172,HR,Manager,Hyderabad,Male,41,Referral,2022-03-05,,1.52,4.07,85911,Active
+EMP0173,Employee 173,IT,Manager,Bangalore,Male,57,Job Portal,2016-10-25,2021-10-16,4.79,1.9,88012,Left
+EMP0174,Employee 174,Sales,Intern,Mumbai,Male,43,Walk-in,2016-05-27,2020-11-05,3.01,3.13,42103,Left
+EMP0175,Employee 175,IT,Executive,Hyderabad,Female,23,Campus,2015-06-18,,4.79,1.32,95598,Active
+EMP0176,Employee 176,Marketing,Analyst,Chennai,Male,25,Referral,2022-01-12,2026-08-18,2.93,4.83,109783,Left
+EMP0177,Employee 177,IT,Analyst,Bangalore,Female,30,Job Portal,2019-12-06,2023-08-23,2.36,2.86,38830,Left
+EMP0178,Employee 178,Marketing,Executive,Mumbai,Male,25,Job Portal,2020-10-10,,2.87,2.28,55058,Active
+EMP0179,Employee 179,Sales,Analyst,Mumbai,Male,53,Walk-in,2019-04-23,2021-09-12,4.61,4.85,62917,Left
+EMP0180,Employee 180,Sales,Coordinator,Mumbai,Male,44,LinkedIn,2020-03-27,2022-12-18,1.36,2.99,71543,Left
+EMP0181,Employee 181,Marketing,Analyst,Hyderabad,Male,28,Campus,2015-07-27,2019-05-05,4.37,3.39,108148,Left
+EMP0182,Employee 182,Marketing,Manager,Hyderabad,Other,34,Job Portal,2016-07-02,2021-07-30,2.61,2.46,25930,Left
+EMP0183,Employee 183,IT,Intern,Hyderabad,Male,30,LinkedIn,2021-03-16,2022-08-13,2.8,2.55,92070,Left
+EMP0184,Employee 184,Finance,Executive,Hyderabad,Other,47,Walk-in,2019-06-02,2024-11-14,3.23,4.95,67920,Left
+EMP0185,Employee 185,Sales,Coordinator,Mumbai,Other,54,Referral,2015-06-14,,3.85,1.16,82094,Active
+EMP0186,Employee 186,Sales,Analyst,Hyderabad,Other,56,Campus,2018-09-05,2020-08-02,3.47,2.57,59221,Left
+EMP0187,Employee 187,HR,Coordinator,Hyderabad,Female,23,Walk-in,2022-12-12,2026-08-10,2.47,4.26,108317,Left
+EMP0188,Employee 188,Finance,Manager,Hyderabad,Female,32,Walk-in,2020-04-27,2024-12-29,4.1,4.13,95711,Left
+EMP0189,Employee 189,Operations,Manager,Mumbai,Male,50,Job Portal,2022-01-20,2023-11-18,1.97,4.29,95047,Left
+EMP0190,Employee 190,Sales,Coordinator,Delhi,Other,30,Walk-in,2019-09-12,,1.82,2.65,85774,Active
+EMP0191,Employee 191,Marketing,Intern,Bangalore,Other,44,Job Portal,2017-04-29,2022-01-14,2.51,2.91,42699,Left
+EMP0192,Employee 192,Finance,Analyst,Bangalore,Other,35,Campus,2021-11-03,2023-12-01,2.12,4.83,59124,Left
+EMP0193,Employee 193,IT,Analyst,Delhi,Other,56,Campus,2018-07-22,2021-07-05,4.74,3.24,114589,Left
+EMP0194,Employee 194,Operations,Manager,Bangalore,Female,38,Campus,2019-06-05,2024-10-04,2.16,4.22,57700,Left
+EMP0195,Employee 195,Operations,Analyst,Mumbai,Male,37,Referral,2017-05-26,,2.08,4.31,93664,Active
+EMP0196,Employee 196,IT,Coordinator,Delhi,Other,30,LinkedIn,2015-07-27,,1.21,3.55,74172,Active
+EMP0197,Employee 197,Marketing,Executive,Bangalore,Female,40,LinkedIn,2021-03-04,,4.74,2.63,82350,Active
+EMP0198,Employee 198,Finance,Coordinator,Mumbai,Male,47,Campus,2016-01-02,,3.89,3.14,24888,Active
+EMP0199,Employee 199,IT,Analyst,Chennai,Other,56,Walk-in,2017-02-02,2018-04-19,3.27,1.04,34064,Left
+EMP0200,Employee 200,HR,Analyst,Mumbai,Other,51,Job Portal,2020-07-16,,2.87,4.4,45272,Active
+EMP0201,Employee 201,Sales,Executive,Mumbai,Other,47,Campus,2023-01-22,,2.35,1.06,58669,Active
+EMP0202,Employee 202,Marketing,Analyst,Mumbai,Male,38,Campus,2020-10-11,2022-04-06,1.38,2.6,38430,Left
+EMP0203,Employee 203,Operations,Intern,Delhi,Female,45,Referral,2017-08-22,2022-11-12,2.32,2.07,96344,Left
+EMP0204,Employee 204,Sales,Analyst,Delhi,Other,40,Job Portal,2015-09-12,,1.64,2.86,109925,Active
+EMP0205,Employee 205,Marketing,Intern,Bangalore,Female,57,Campus,2021-11-22,,1.53,1.88,40078,Active
+EMP0206,Employee 206,HR,Intern,Chennai,Other,45,LinkedIn,2021-01-10,,3.72,4.05,98094,Active
+EMP0207,Employee 207,Finance,Intern,Hyderabad,Male,32,Job Portal,2021-04-29,,3.19,1.25,86255,Active
+EMP0208,Employee 208,HR,Intern,Chennai,Male,51,Referral,2020-11-01,2022-06-27,3.87,3.72,84071,Left
+EMP0209,Employee 209,IT,Manager,Chennai,Female,22,Referral,2020-10-03,2024-04-25,3.24,3.26,108181,Left
+EMP0210,Employee 210,Sales,Manager,Delhi,Female,24,Job Portal,2021-06-26,,2.38,1.18,28357,Active
+EMP0211,Employee 211,Operations,Coordinator,Bangalore,Female,50,Campus,2019-08-02,,4.06,4.08,115589,Active
+EMP0212,Employee 212,Finance,Analyst,Delhi,Male,56,Campus,2019-03-19,,3.65,3.73,90687,Active
+EMP0213,Employee 213,HR,Analyst,Chennai,Other,56,Campus,2020-12-06,,1.89,3.91,20455,Active
+EMP0214,Employee 214,Finance,Manager,Delhi,Other,48,Walk-in,2020-12-18,2023-04-02,2.38,1.99,56129,Left
+EMP0215,Employee 215,Marketing,Intern,Delhi,Male,24,Campus,2015-03-06,,1.4,1.82,24400,Active
+EMP0216,Employee 216,Finance,Intern,Bangalore,Male,58,Job Portal,2019-12-03,,4.02,3.16,27398,Active
+EMP0217,Employee 217,Sales,Executive,Chennai,Female,39,LinkedIn,2021-06-23,2023-10-21,1.57,2.21,106535,Left
+EMP0218,Employee 218,HR,Analyst,Chennai,Other,42,Campus,2021-03-30,,2.71,3.5,84962,Active
+EMP0219,Employee 219,Marketing,Executive,Mumbai,Female,31,Campus,2019-07-31,,1.74,2.2,90507,Active
+EMP0220,Employee 220,IT,Executive,Bangalore,Other,27,Campus,2015-08-25,2018-12-25,1.54,3.23,51831,Left
+EMP0221,Employee 221,IT,Coordinator,Hyderabad,Other,24,LinkedIn,2019-02-28,,4.32,3.14,26755,Active
+EMP0222,Employee 222,IT,Manager,Mumbai,Male,29,Campus,2017-02-09,,4.48,2.92,63642,Active
+EMP0223,Employee 223,IT,Coordinator,Chennai,Other,44,Job Portal,2017-09-20,,1.96,2.59,62154,Active
+EMP0224,Employee 224,Marketing,Analyst,Mumbai,Female,42,Campus,2017-12-07,2021-10-22,2.86,4.53,114688,Left
+EMP0225,Employee 225,Sales,Intern,Chennai,Female,31,Referral,2015-07-07,,1.06,3.97,92523,Active
+EMP0226,Employee 226,Sales,Analyst,Bangalore,Female,53,Campus,2018-09-13,,4.33,2.52,85444,Active
+EMP0227,Employee 227,Sales,Manager,Hyderabad,Male,26,LinkedIn,2016-11-20,2018-11-01,3.19,1.56,44123,Left
+EMP0228,Employee 228,Finance,Manager,Mumbai,Other,51,Job Portal,2015-01-27,2016-11-03,1.93,4.37,112690,Left
+EMP0229,Employee 229,Marketing,Manager,Delhi,Other,39,Walk-in,2015-09-05,2020-05-16,1.03,2.95,92305,Left
+EMP0230,Employee 230,Finance,Manager,Delhi,Other,31,Referral,2018-03-20,,3.79,3.01,76436,Active
+EMP0231,Employee 231,Marketing,Coordinator,Hyderabad,Male,36,Job Portal,2017-02-25,2020-02-20,2.59,2.07,68896,Left
+EMP0232,Employee 232,HR,Manager,Chennai,Female,46,Walk-in,2022-09-02,,4.43,3.61,119560,Active
+EMP0233,Employee 233,Marketing,Coordinator,Bangalore,Other,28,Walk-in,2020-05-03,,3.81,3.55,30837,Active
+EMP0234,Employee 234,Marketing,Analyst,Delhi,Male,39,Walk-in,2015-06-24,,4.47,1.85,94289,Active
+EMP0235,Employee 235,Finance,Intern,Mumbai,Other,47,LinkedIn,2021-04-27,,4.4,1.72,22052,Active
+EMP0236,Employee 236,Operations,Intern,Bangalore,Female,30,LinkedIn,2018-05-10,,3.27,3.26,71007,Active
+EMP0237,Employee 237,IT,Intern,Hyderabad,Other,47,Job Portal,2020-08-13,2021-11-30,1.93,1.39,29963,Left
+EMP0238,Employee 238,Sales,Coordinator,Chennai,Male,46,LinkedIn,2015-05-02,2020-09-21,2.96,4.97,66636,Left
+EMP0239,Employee 239,Finance,Coordinator,Mumbai,Other,46,Job Portal,2021-12-08,2027-05-30,1.29,1.99,55123,Left
+EMP0240,Employee 240,IT,Analyst,Delhi,Male,27,Referral,2019-01-17,,4.77,1.37,78292,Active
+EMP0241,Employee 241,HR,Analyst,Hyderabad,Male,42,Campus,2019-11-01,2023-12-15,2.63,3.22,23442,Left
+EMP0242,Employee 242,Finance,Intern,Hyderabad,Male,46,Referral,2015-02-20,2018-06-16,1.34,2.55,93339,Left
+EMP0243,Employee 243,Marketing,Analyst,Chennai,Female,52,LinkedIn,2016-07-22,2019-03-30,1.58,2.07,41916,Left
+EMP0244,Employee 244,Finance,Coordinator,Delhi,Male,41,LinkedIn,2019-01-19,2021-06-07,2.98,3.88,100828,Left
+EMP0245,Employee 245,IT,Coordinator,Hyderabad,Male,41,Job Portal,2019-06-09,2023-11-30,4.45,2.52,77700,Left
+EMP0246,Employee 246,IT,Analyst,Chennai,Other,37,Job Portal,2021-10-06,,1.71,2.92,72198,Active
+EMP0247,Employee 247,Finance,Intern,Hyderabad,Male,57,LinkedIn,2019-03-21,2024-08-15,1.46,2.57,93905,Left
+EMP0248,Employee 248,HR,Coordinator,Chennai,Male,41,Referral,2023-02-26,2028-02-15,4.19,1.84,110811,Left
+EMP0249,Employee 249,Marketing,Intern,Chennai,Other,47,Walk-in,2017-10-31,,4.16,3.86,29694,Active
+EMP0250,Employee 250,Sales,Intern,Delhi,Male,37,Job Portal,2020-09-06,2024-09-23,4.87,1.15,111964,Left
+EMP0251,Employee 251,Marketing,Analyst,Chennai,Male,22,LinkedIn,2016-11-12,,3.58,3.25,104769,Active
+EMP0252,Employee 252,Operations,Intern,Mumbai,Female,45,Campus,2017-11-25,,3.08,3.04,96089,Active
+EMP0253,Employee 253,IT,Coordinator,Delhi,Male,31,Job Portal,2020-03-11,,1.1,2.38,33703,Active
+EMP0254,Employee 254,Marketing,Manager,Chennai,Other,50,Job Portal,2018-07-01,2022-01-18,3.08,4.14,65652,Left
+EMP0255,Employee 255,Operations,Manager,Mumbai,Other,37,Walk-in,2015-10-03,2017-01-01,1.46,4.24,64967,Left
+EMP0256,Employee 256,Finance,Coordinator,Mumbai,Male,49,Campus,2016-12-15,,2.71,2.32,80562,Active
+EMP0257,Employee 257,Operations,Executive,Mumbai,Female,26,Walk-in,2015-04-30,,2.72,2.8,20583,Active
+EMP0258,Employee 258,IT,Coordinator,Hyderabad,Other,42,Walk-in,2016-02-21,,1.79,2.46,34936,Active
+EMP0259,Employee 259,Sales,Executive,Bangalore,Other,27,Referral,2019-05-11,2023-08-25,2.41,1.46,80012,Left
+EMP0260,Employee 260,Operations,Executive,Hyderabad,Female,48,Walk-in,2018-07-06,,1.47,1.95,68929,Active
+EMP0261,Employee 261,Operations,Executive,Hyderabad,Male,53,Job Portal,2016-07-18,2019-12-01,3.54,1.74,110889,Left
+EMP0262,Employee 262,IT,Manager,Chennai,Male,34,Campus,2016-07-28,,2.8,2.26,27026,Active
+EMP0263,Employee 263,Marketing,Executive,Delhi,Other,23,Referral,2021-04-19,2024-08-03,2.66,3.74,78176,Left
+EMP0264,Employee 264,Marketing,Intern,Chennai,Other,54,LinkedIn,2018-04-11,,3.15,2.1,42047,Active
+EMP0265,Employee 265,Sales,Manager,Chennai,Other,35,Campus,2021-06-03,,3.17,2.07,68085,Active
+EMP0266,Employee 266,IT,Analyst,Delhi,Female,29,Referral,2016-02-24,,5.0,2.19,78947,Active
+EMP0267,Employee 267,Finance,Executive,Mumbai,Male,58,Job Portal,2017-05-09,2022-05-03,2.71,3.44,100760,Left
+EMP0268,Employee 268,IT,Analyst,Hyderabad,Female,54,LinkedIn,2020-12-20,2025-04-25,2.29,3.16,112281,Left
+EMP0269,Employee 269,Operations,Executive,Mumbai,Male,42,Referral,2016-07-09,2017-11-07,4.47,4.97,36631,Left
+EMP0270,Employee 270,Marketing,Coordinator,Chennai,Male,27,Campus,2022-08-01,2026-04-29,3.53,1.57,102288,Left
+EMP0271,Employee 271,IT,Intern,Delhi,Other,27,Campus,2020-10-12,2025-09-03,2.48,4.75,83968,Left
+EMP0272,Employee 272,Finance,Coordinator,Bangalore,Female,40,Job Portal,2022-02-13,2023-06-22,2.59,4.18,76314,Left
+EMP0273,Employee 273,Operations,Manager,Delhi,Male,51,LinkedIn,2021-02-19,,2.94,3.26,65054,Active
+EMP0274,Employee 274,Finance,Executive,Bangalore,Male,39,LinkedIn,2016-05-23,,1.0,2.77,76072,Active
+EMP0275,Employee 275,Finance,Manager,Chennai,Other,41,Referral,2022-05-05,2024-09-28,3.66,1.33,105054,Left
+EMP0276,Employee 276,HR,Executive,Hyderabad,Male,55,Campus,2019-10-25,,1.0,3.81,82496,Active
+EMP0277,Employee 277,Operations,Executive,Chennai,Male,36,Campus,2015-02-08,,4.27,3.78,75353,Active
+EMP0278,Employee 278,Finance,Coordinator,Mumbai,Other,31,LinkedIn,2016-01-01,,2.47,1.41,59223,Active
+EMP0279,Employee 279,Operations,Executive,Mumbai,Female,50,Referral,2020-12-12,,1.66,3.44,66030,Active
+EMP0280,Employee 280,Marketing,Analyst,Chennai,Female,30,Referral,2015-12-22,,1.49,1.56,115683,Active
+EMP0281,Employee 281,Sales,Analyst,Delhi,Other,41,Referral,2018-02-08,,3.4,1.99,114526,Active
+EMP0282,Employee 282,Finance,Coordinator,Chennai,Male,37,Campus,2020-10-21,,2.18,3.99,27152,Active
+EMP0283,Employee 283,IT,Executive,Chennai,Other,48,Job Portal,2022-02-26,,4.91,3.11,67329,Active
+EMP0284,Employee 284,HR,Intern,Delhi,Male,38,Referral,2021-02-15,,4.82,4.05,29567,Active
+EMP0285,Employee 285,Operations,Intern,Chennai,Female,47,LinkedIn,2015-06-13,,2.59,4.79,57550,Active
+EMP0286,Employee 286,Finance,Executive,Hyderabad,Female,47,Walk-in,2022-03-08,,2.24,2.11,87017,Active
+EMP0287,Employee 287,HR,Executive,Delhi,Female,29,Campus,2022-02-11,,2.75,2.24,51278,Active
+EMP0288,Employee 288,Finance,Manager,Delhi,Other,30,LinkedIn,2021-11-12,,3.97,2.24,117079,Active
+EMP0289,Employee 289,IT,Executive,Bangalore,Male,39,LinkedIn,2016-11-02,2019-10-13,4.13,3.09,114472,Left
+EMP0290,Employee 290,Sales,Manager,Chennai,Female,54,Job Portal,2015-05-01,2018-09-26,1.26,2.09,113365,Left
+EMP0291,Employee 291,Sales,Manager,Mumbai,Other,54,LinkedIn,2015-08-16,2019-10-19,1.63,1.67,33487,Left
+EMP0292,Employee 292,Finance,Executive,Delhi,Other,48,Referral,2015-06-30,,2.89,1.98,70197,Active
+EMP0293,Employee 293,HR,Intern,Bangalore,Male,54,LinkedIn,2018-08-11,,3.88,2.67,55554,Active
+EMP0294,Employee 294,HR,Coordinator,Bangalore,Female,42,LinkedIn,2017-01-04,,4.93,4.22,72550,Active
+EMP0295,Employee 295,Operations,Intern,Mumbai,Female,45,Walk-in,2021-03-15,2022-03-31,2.17,2.48,59834,Left
+EMP0296,Employee 296,Finance,Manager,Chennai,Male,36,Walk-in,2020-07-13,,3.19,3.93,52129,Active
+EMP0297,Employee 297,Marketing,Analyst,Delhi,Male,55,Referral,2018-11-19,,1.01,4.8,106154,Active
+EMP0298,Employee 298,HR,Manager,Mumbai,Other,48,Job Portal,2019-09-16,2021-01-15,1.57,4.89,56677,Left
+EMP0299,Employee 299,Marketing,Manager,Hyderabad,Other,25,Campus,2020-02-21,,3.02,3.32,103521,Active
+EMP0300,Employee 300,Marketing,Analyst,Bangalore,Female,39,Referral,2022-06-06,,2.04,1.95,61288,Active
